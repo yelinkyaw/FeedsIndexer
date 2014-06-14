@@ -1,5 +1,5 @@
 # FeedsIndexer
-============
+--------------------
 ### Requirements
 1. PyLucene 4.8 and above
 1. Python 2.7
@@ -11,5 +11,4 @@
 `python search.py`
 
 ### Search URL
-`htt://localhost/? query=<lucene_query>`
-============
+`http://localhost/?query=<lucene_query>`
